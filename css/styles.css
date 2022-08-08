@@ -810,6 +810,7 @@ address {
 }
 
 .modal-form-check:focus + .modal-form-check-name::before {
+    border-color: var(--accent-color);
 }
 
 .modal-form-check-name {
