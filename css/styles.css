@@ -817,6 +817,7 @@ address {
     display: flex;
     align-items: center;
     margin-bottom: 30px;
+    padding-left: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
     color: var(--secondary-text-color);
